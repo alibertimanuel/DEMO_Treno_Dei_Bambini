@@ -17,7 +17,7 @@ Il gioco è online e si può provare direttamente dal browser, senza installare 
 | File | Descrizione |
 |------|-------------|
 | `index.html` | Il gioco (pagina HTML con tutto il necessario) |
-| `.git attributes | File creato da GitHub Desktop
+| `.git attributes` | File creato da GitHub Desktop
 | `README.md` | Questa descrizione |
 
 ## 📚 Ispirazione
